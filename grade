@@ -1,0 +1,2 @@
+140/150
+Project runs and parses log files correctly. Parsing of filenames returns some regex errors. Code is fairly clean. Uses urllib as a standard method - good. Very good for your first attempt.
